@@ -16,3 +16,13 @@
     </picture>
   </a>
 </p>
+
+## Skills
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF) ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF) ![Firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF) ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)

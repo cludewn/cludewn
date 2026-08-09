@@ -1,4 +1,17 @@
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cludewn/cludewn-assets/refs/heads/main/lockups/SVG/cludewn-lockup-cwn-white.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/cludewn/cludewn-assets/refs/heads/main/lockups/SVG/cludewn-lockup-cwn-black.svg"
+      alt="Cludewn"
+    >
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
       <source

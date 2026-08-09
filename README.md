@@ -27,38 +27,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cludewn&name=Cludewn&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cludewn&name=Cludewn&title_color=000000&text_color=000000&bg_color=FFFFFF00&border_color=000000&icon_color=000000&chart_color=000000&animation=load&duration=1.8"
-      alt="GitHub profile details"
-    />
-  </picture>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cludewn&name=Cludewn&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
+    alt="GitHub profile details"
+  /></a>
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cludewn&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cludewn&title_color=000000&text_color=000000&bg_color=FFFFFF00&border_color=000000&icon_color=000000&chart_color=000000&animation=load&duration=1.8"
-      alt="GitHub statistics"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cludewn&utcOffset=9&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cludewn&utcOffset=9&title_color=000000&text_color=000000&bg_color=FFFFFF00&border_color=000000&icon_color=000000&chart_color=000000&animation=load&duration=1.8"
-      alt="Productive time"
-    />
-  </picture>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cludewn&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
+    alt="GitHub statistics"
+  /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cludewn&utcOffset=9&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
+    alt="Productive time"
+  /></a>
 </p>

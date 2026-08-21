@@ -48,6 +48,17 @@
 
 <p align="center">
   <a href="https://github.com/cludewn/github-profile-summary-cards"><img
+    src="./profile-summary-card-output/cwn_dark/1-repos-per-language.svg"
+    alt="GitHub repositories by language"
+  /></a>
+  <a href="https://github.com/cludewn/github-profile-summary-cards"><img
+    src="./profile-summary-card-output/cwn_dark/2-most-commit-language.svg"
+    alt="GitHub commits by language"
+  /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cludewn/github-profile-summary-cards"><img
     src="./profile-summary-card-output/cwn_dark/3-stats.svg"
     alt="GitHub statistics"
   /></a>

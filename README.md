@@ -40,19 +40,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cludewn&name=Cludewn&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
+  <a href="https://github.com/cludewn/github-profile-summary-cards"><img
+    src="./profile-summary-card-output/cwn_dark/0-profile-details.svg"
     alt="GitHub profile details"
   /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cludewn&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
+  <a href="https://github.com/cludewn/github-profile-summary-cards"><img
+    src="./profile-summary-card-output/cwn_dark/3-stats.svg"
     alt="GitHub statistics"
   /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cludewn&utcOffset=9&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF00&icon_color=FFFFFF&chart_color=FFFFFF&animation=load&duration=1.8"
-    alt="Productive time"
+  <a href="https://github.com/cludewn/github-profile-summary-cards"><img
+    src="./profile-summary-card-output/cwn_dark/4-productive-time.svg"
+    alt="GitHub activity by time of day"
   /></a>
 </p>
